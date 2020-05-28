@@ -1,0 +1,13 @@
+#landing_header {
+	margin: 0;
+	padding: 50px 0;
+	font-family: Helvetica, sans-serif;
+	font-weight: 100;
+	text-align: center;
+	color: #FFFFFF;
+	transition: all 1s ease-in-out;
+}
+
+#landing_header.disappear {
+	margin-top: -120px;
+}

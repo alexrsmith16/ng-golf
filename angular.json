@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "ng-golf"
+  "defaultProject": "ng-golf",
+  "cli": {
+    "analytics": false
+  }
 }
